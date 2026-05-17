@@ -1,0 +1,14 @@
+names:
+- Focus
+- Not Focus
+nc: 2
+path: C:\Users\geogo\OneDrive\Desktop\clg project\Brainware_Pictures-2
+roboflow:
+  license: CC BY 4.0
+  project: brainware_pictures-xlkci
+  url: https://universe.roboflow.com/jadavpur-dataset-work/brainware_pictures-xlkci/dataset/2
+  version: 2
+  workspace: jadavpur-dataset-work
+test: C:\Users\geogo\OneDrive\Desktop\clg project\Brainware_Pictures-2\test\images
+train: C:\Users\geogo\OneDrive\Desktop\clg project\Brainware_Pictures-2\train\images
+val: C:\Users\geogo\OneDrive\Desktop\clg project\Brainware_Pictures-2\valid\images
