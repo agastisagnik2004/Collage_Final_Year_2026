@@ -1,0 +1,31 @@
+# Environment / secrets
+.env
+*.env
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+
+# Node
+node_modules/
+dist/
+.vite/
+
+# YOLO / ML artifacts
+*.pt
+*.pkl
+*.onnx
+runs/
+
+# Misc
+.DS_Store
+Thumbs.db
+recordings/
+*.zip
